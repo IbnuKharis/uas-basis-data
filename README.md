@@ -1,5 +1,5 @@
 # uas-basis-data
-Project E Commerce<br>
+Project E Commerce
 
 #Landing page
 <img src="homepage.png" img> 
