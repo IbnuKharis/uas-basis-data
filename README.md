@@ -1,8 +1,8 @@
 # uas-basis-data
 Project E Commerce
 
-#Landing page
+# Landing page
 <img src="homepage.png" img> 
 
-#Product Gallery
+# Product Gallery
 <img src="produk.png" img> 
